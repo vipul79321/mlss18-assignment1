@@ -1,4 +1,4 @@
-# ML Summer School (2018) - Assignment 1
+# ML Summer School (2018) - Assignment 12
 
 ## Instructions to submit
 
